@@ -7,6 +7,7 @@ The Bank Marketing Effectiveness Prediction Project is focused on predicting whe
 The business problem is a binary classification problem. The classification goal is to predict if the client contacted through the marketing campaign will subscribe to a term deposit.
 
 <b>Dataset</b>
+
 The data is related to direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact with the same client was required, in order to access if the product (bank term deposit) would be (or not) subscribed.
 
 <b>Key Findings:</b>
